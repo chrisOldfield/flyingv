@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+
+out
+gen
+
+
+Would skip repository bashbros/DuckToolkit
+bashbros/NEWS.txt
+bashbros/buildout.cfg
+bashbros/MANIFEST.in
+bashbros/README.rst
+
+bashbros/HACKING.txt
+bashbros/LICENSE
+
+bootstrap.py
+
